@@ -56,7 +56,8 @@ This project is ideal for **resume-building**, showcasing **full-stack developme
 
 ## 🎨 Screenshots
 
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot]<img width="1366" height="768" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/8531cf32-55df-49e2-9e4f-40c23bea8f07" />
+
 
 > Screenshot shows tasks added, tasks completed, and delete functionality.
 
